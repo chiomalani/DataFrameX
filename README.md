@@ -27,6 +27,7 @@ This notebook represents the **first phase** of the DataFrameX project. In this 
 ---
 
 ## Project Structure
+```plaintext
 DataFrameX/
 │
 ├── notebooks/              # Jupyter Notebooks for Phase 1
@@ -35,6 +36,7 @@ DataFrameX/
 ├── README.md               # Project README file
 ├── LICENSE                 # Project LICENSE file
 └── requirements.txt        # Python dependencies for running the notebook
+```
 ---
 
 ## Next Steps
