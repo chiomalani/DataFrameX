@@ -1,0 +1,11 @@
+jupyterlab
+notebook
+pandas
+openai
+matplotlib
+seaborn
+scikit-learn
+rpy2==3.4.5  # For R integration in Python notebooks
+requests     # For API calls or web scraping
+numpy        # For numerical operations
+dotenv       # To load environment variables for the OpenAI key
